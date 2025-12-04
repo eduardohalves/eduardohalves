@@ -8,7 +8,7 @@
 
 ### Tecnologias a serem práticada
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,postgres&theme=dark" />
  
 ### Minhas redes sociais
  
